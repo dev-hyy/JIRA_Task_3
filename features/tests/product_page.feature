@@ -1,6 +1,6 @@
-# Created by chelsy at 10/7/23
-Feature: # Enter feature name here
-  # Enter feature description here
+Feature: Tests for Product Page UI
 
-  Scenario: # Enter scenario name here
-    # Enter steps here
+  Scenario: Verify that user can click each color
+    Given Open Amazon product B07BJKRR25 page
+    When Store product name
+    Then Verify user can click through colors
