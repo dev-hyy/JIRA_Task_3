@@ -1,4 +1,4 @@
-Feature: Tests for Main Page UI
+Feature: Tests for Sign In Page UI
 
 Scenario: Logged out user sees Sign in page when clicking Orders
   Given Open Amazon page
