@@ -1,11 +1,6 @@
-Feature: Tests for Sign In Page UI
+Feature: Tests for Reely Visualization Options
 
-#Scenario: Logged out user sees Sign in page when clicking Orders
-#  Given Open Amazon page
-#  When Click Amazon Orders link
-#  Then Verify Sign In page is opened
-
-  Scenario: test
+  Scenario: Logged In User Selects Visualization Options
     Given Open Reely page
     Given User enters login credentials
     When Click on off plan at the left side menu

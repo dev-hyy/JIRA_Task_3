@@ -1,35 +1,43 @@
 from selenium.webdriver.common.by import By
 from behave import *
 
-
-ADD_TO_CART_BTN = (By.ID, "add-to-cart-button")
-PRODUCT_NAME = (By.ID, 'productTitle')
-COLOR_OPTIONS = (By.CSS_SELECTOR, "#variation_color_name li")
-CURRENT_COLOR = (By.CSS_SELECTOR, "#variation_color_name .selection")
+VISUALIZATION_TAB = (By.CSS_SELECTOR, 'div.tabs-menu-project.w-tab-menu > a')
+VISUALIZATION_TAB_SELECTED = (By.CSS_SELECTOR, '[aria-selected="true"]')
 
 
-@given('Open Amazon product {product_id} page')
-def open_amazon_product(context, product_id):
-    context.driver.get(f'https://www.amazon.com/dp/{product_id}/')
+@then('Verify there are {expected_result} options for visualization')
+def verify_three_options_in_visualization(context, expected_result):
+
+    expected_result = int(expected_result)
+    actual_result = len(context.driver.find_elements(*VISUALIZATION_TAB))
+    assert expected_result == actual_result, f'Error, expected {expected_result} did not match actual {actual_result}'
 
 
-@when('Store product name')
-def get_product_name(context):
-    context.product_name = context.driver.find_element(*PRODUCT_NAME).text
-    print(f'Current product: {context.product_name}')
+@then('Verify the three options of visualization are {visualization_type_1}, {visualization_type_2}, {visualization_type_3}')
+def verify_can_click_colors(context, visualization_type_1, visualization_type_2, visualization_type_3):
+    expected_texts = [visualization_type_1, visualization_type_2, visualization_type_3]
+    actual_texts = []
+
+    visualization_types = context.driver.find_elements(*VISUALIZATION_TAB)
+
+    for visualization_type in visualization_types:
+        visualization_type.click()
+        current_visualization_type = context.driver.find_element(*VISUALIZATION_TAB_SELECTED).text
+
+        actual_texts.append(current_visualization_type)
+
+    assert actual_texts == expected_texts, f'Expected {expected_texts} did not match actual {actual_texts}'
 
 
-@then('Verify user can click through colors')
-def verify_can_click_colors(context):
-    expected_colors = ['Black', 'Blue Over Dye', 'Bright White', 'Dark Blue Vintage', 'Dark Indigo', 'Dark Khaki Brown'] # 0, 1, 2, 3
-    actual_colors = []
+@then('Verify the options of visualization are clickable')
+def verify_clickable_visualizations(context):
+    visualization_types = context.driver.find_elements(*VISUALIZATION_TAB)
 
-    colors = context.driver.find_elements(*COLOR_OPTIONS)
+    expected_click_count = 3
+    actual_click_count = 0
 
-    for color in colors[:6]:
-        color.click()
-        current_color = context.driver.find_element(*CURRENT_COLOR).text
+    for visualization_type in visualization_types:
+        visualization_type.click()
+        actual_click_count += 1
 
-        actual_colors.append(current_color)
-
-    assert actual_colors == expected_colors, f'Expected {expected_colors} did not match actual {actual_colors}'
+    assert actual_click_count == expected_click_count, f'Expected {expected_click_count} did not match actual {actual_click_count}'

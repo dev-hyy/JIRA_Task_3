@@ -1,3 +1,6 @@
+from selenium.webdriver import Keys
+
+
 class Page:
 
     def __init__(self, driver):
@@ -12,3 +15,4 @@ class Page:
     def input_text(self, text, *locator):
         e = self.driver.find_element(*locator)
         e.send_keys(text)
+        e.send_keys(Keys.UP)
