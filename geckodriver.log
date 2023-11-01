@@ -1,0 +1,394 @@
+1698798054093	geckodriver	INFO	Listening on 127.0.0.1:57701
+1698798054285	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/nw/kjdsz94j241dgkvncgc82_xw0000gn/T/rust_mozprofile41ZPhW"
+*** You are running in headless mode.
+*** You are running in headless mode.
+*** You are running in headless mode.
+WebDriver BiDi listening on ws://127.0.0.1:57702
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:57702/devtools/browser/57cad695-02e9-4af0-b67a-7b5c8a6e5392
+1698798383980	geckodriver	INFO	Listening on 127.0.0.1:59537
+1698798384182	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/nw/kjdsz94j241dgkvncgc82_xw0000gn/T/rust_mozprofileIR35NU"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698798384867	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1698798385355	Marionette	INFO	Listening on port 59552
+Read port: 59552
+WebDriver BiDi listening on ws://127.0.0.1:59538
+1698798385920	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:59538/devtools/browser/31782e59-0d5e-4d42-99f2-a4f461735523
+1698798388089	geckodriver	INFO	Listening on 127.0.0.1:59568
+1698798388124	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/nw/kjdsz94j241dgkvncgc82_xw0000gn/T/rust_mozprofileay2NHL"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698798389044	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1698798389429	Marionette	INFO	Listening on port 59596
+Read port: 59596
+WebDriver BiDi listening on ws://127.0.0.1:59569
+1698798390149	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59569/devtools/browser/bf3d0e76-6ed9-4c51-8d52-363724e89cfb
+1698798396212	geckodriver	INFO	Listening on 127.0.0.1:59661
+1698798396704	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/nw/kjdsz94j241dgkvncgc82_xw0000gn/T/rust_mozprofileZdLTPb"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698798397648	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1698798398276	Marionette	INFO	Listening on port 59680
+Read port: 59680
+WebDriver BiDi listening on ws://127.0.0.1:59662
+1698798398795	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:59662/devtools/browser/ac9817da-c4b9-4ccf-8e96-285ed9538e46
+1698798401003	geckodriver	INFO	Listening on 127.0.0.1:59702
+1698798401512	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/nw/kjdsz94j241dgkvncgc82_xw0000gn/T/rust_mozprofilerqna2k"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698798402499	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1698798402879	Marionette	INFO	Listening on port 59731
+Read port: 59731
+WebDriver BiDi listening on ws://127.0.0.1:59703
+1698798403355	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:59703/devtools/browser/486c845f-35c3-49b9-bb95-7acec27b9405
+JavaScript error: https://soft.reelly.io/sign-in, line 87: TypeError: document.getElementById(...) is null
+JavaScript error: https://cdn.jsdelivr.net/npm/natively@2.11.0/natively-frontend.min.js, line 1: SyntaxError: redeclaration of let NativelyInfo
+JavaScript error: https://soft.reelly.io/sign-in, line 87: TypeError: document.getElementById(...) is null
+1698798416801	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1698798419072	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1698798429946	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1698798432538	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1698798442087	Marionette	INFO	Stopped listening on port 59731
+JavaScript warning: https://assets-global.website-files.com/63c5585ff31e74bfcf46a136/js/webflow.3d59c7cce.js, line 22: Script terminated by timeout at:
+r@https://assets-global.website-files.com/63c5585ff31e74bfcf46a136/js/webflow.3d59c7cce.js:22:126317
+
+1698798464102	geckodriver	INFO	Listening on 127.0.0.1:60067
+1698798464935	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/nw/kjdsz94j241dgkvncgc82_xw0000gn/T/rust_mozprofileUYtDAJ"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698798465546	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1698798466248	Marionette	INFO	Listening on port 60091
+WebDriver BiDi listening on ws://127.0.0.1:60068
+Read port: 60091
+1698798466516	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:60068/devtools/browser/bc106da9-7c21-4616-b387-6f9551c714f0
+1698798468035	Marionette	INFO	Stopped listening on port 60091
+1698798488475	geckodriver	INFO	Listening on 127.0.0.1:60210
+1698798488987	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/nw/kjdsz94j241dgkvncgc82_xw0000gn/T/rust_mozprofilebJQHpM"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698798489539	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1698798490028	Marionette	INFO	Listening on port 60226
+Read port: 60226
+WebDriver BiDi listening on ws://127.0.0.1:60211
+1698798490501	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:60211/devtools/browser/a7f62173-f6da-4707-8c13-2231c5b9afd0
+1698798492953	geckodriver	INFO	Listening on 127.0.0.1:60248
+1698798493457	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/nw/kjdsz94j241dgkvncgc82_xw0000gn/T/rust_mozprofileotre3T"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698798494278	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1698798494889	Marionette	INFO	Listening on port 60276
+Read port: 60276
+WebDriver BiDi listening on ws://127.0.0.1:60249
+1698798495489	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60249/devtools/browser/422d4101-28a6-4e1d-8717-12a893a06334
+1698798502171	geckodriver	INFO	Listening on 127.0.0.1:60343
+1698798502674	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/nw/kjdsz94j241dgkvncgc82_xw0000gn/T/rust_mozprofileZCkFET"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698798503783	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1698798504792	Marionette	INFO	Listening on port 60362
+Read port: 60362
+WebDriver BiDi listening on ws://127.0.0.1:60344
+1698798505578	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:60344/devtools/browser/87b9e533-7202-40ec-8d3e-4ec8ed473225
+1698798507938	geckodriver	INFO	Listening on 127.0.0.1:60386
+1698798508450	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/nw/kjdsz94j241dgkvncgc82_xw0000gn/T/rust_mozprofile0RgdeP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698798509608	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1698798510113	Marionette	INFO	Listening on port 60415
+Read port: 60415
+WebDriver BiDi listening on ws://127.0.0.1:60387
+1698798510784	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60387/devtools/browser/066b91b4-beb2-4373-aa84-a7e6103a12df
+JavaScript error: https://soft.reelly.io/sign-in, line 87: TypeError: document.getElementById(...) is null
+JavaScript error: https://cdn.jsdelivr.net/npm/natively@2.11.0/natively-frontend.min.js, line 1: SyntaxError: redeclaration of let NativelyInfo
+JavaScript error: https://soft.reelly.io/sign-in, line 87: TypeError: document.getElementById(...) is null
+1698798519602	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1698798524313	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1698798536732	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1698798539643	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1698798549769	Marionette	INFO	Stopped listening on port 60415
+JavaScript warning: https://assets-global.website-files.com/63c5585ff31e74bfcf46a136/js/webflow.3d59c7cce.js, line 22: Script terminated by timeout at:
+r@https://assets-global.website-files.com/63c5585ff31e74bfcf46a136/js/webflow.3d59c7cce.js:22:126317
+
+1698798601554	Marionette	INFO	Stopped listening on port 59596
+1698798604380	Marionette	INFO	Stopped listening on port 60276
+1698798698858	geckodriver	INFO	Listening on 127.0.0.1:61297
+1698798699380	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/nw/kjdsz94j241dgkvncgc82_xw0000gn/T/rust_mozprofile47OqxC"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698798700074	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1698798700312	Marionette	INFO	Listening on port 61314
+Read port: 61314
+WebDriver BiDi listening on ws://127.0.0.1:61298
+1698798700708	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:61298/devtools/browser/affdff63-12d2-4815-8add-211dd0f29ccc
+1698798703182	Marionette	INFO	Stopped listening on port 61314
+1698798885627	geckodriver	INFO	Listening on 127.0.0.1:62108
+1698798886139	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/nw/kjdsz94j241dgkvncgc82_xw0000gn/T/rust_mozprofileJZEqNg"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698798886636	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1698798887333	Marionette	INFO	Listening on port 62124
+WebDriver BiDi listening on ws://127.0.0.1:62109
+Read port: 62124
+1698798887582	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:62109/devtools/browser/a887a4c5-601f-42e5-8825-d31950614ae7
+1698798892566	geckodriver	INFO	Listening on 127.0.0.1:62179
+1698798893060	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/nw/kjdsz94j241dgkvncgc82_xw0000gn/T/rust_mozprofileASXub7"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698798893853	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1698798894350	Marionette	INFO	Listening on port 62195
+Read port: 62195
+WebDriver BiDi listening on ws://127.0.0.1:62180
+1698798894980	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:62180/devtools/browser/eb24ce71-8427-4f05-a102-8b85a43e7540
+JavaScript error: https://soft.reelly.io/sign-in, line 87: TypeError: document.getElementById(...) is null
+JavaScript error: https://cdn.jsdelivr.net/npm/natively@2.11.0/natively-frontend.min.js, line 1: SyntaxError: redeclaration of let NativelyInfo
+JavaScript error: https://soft.reelly.io/sign-in, line 87: TypeError: document.getElementById(...) is null
+1698798918015	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1698798926180	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1698798932361	Marionette	INFO	Stopped listening on port 62195
+JavaScript warning: https://assets-global.website-files.com/63c5585ff31e74bfcf46a136/js/webflow.3d59c7cce.js, line 22: Script terminated by timeout at:
+r@https://assets-global.website-files.com/63c5585ff31e74bfcf46a136/js/webflow.3d59c7cce.js:22:126317
+
+1698798951504	geckodriver	INFO	Listening on 127.0.0.1:62508
+1698798952009	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/nw/kjdsz94j241dgkvncgc82_xw0000gn/T/rust_mozprofileg8IzA6"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698798952583	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1698798953088	Marionette	INFO	Listening on port 62524
+Read port: 62524
+WebDriver BiDi listening on ws://127.0.0.1:62509
+1698798953551	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:62509/devtools/browser/06611afb-d1ec-4b0d-8885-4a99f675c101
+1698798958153	geckodriver	INFO	Listening on 127.0.0.1:62576
+1698798958669	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/nw/kjdsz94j241dgkvncgc82_xw0000gn/T/rust_mozprofileFANUbz"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698798959253	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1698798959734	Marionette	INFO	Listening on port 62588
+Read port: 62588
+WebDriver BiDi listening on ws://127.0.0.1:62577
+1698798960243	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:62577/devtools/browser/e272fd6d-509f-4935-8c0e-1737a618ac97
+JavaScript error: https://soft.reelly.io/sign-in, line 87: TypeError: document.getElementById(...) is null
+JavaScript error: https://cdn.jsdelivr.net/npm/natively@2.11.0/natively-frontend.min.js, line 1: SyntaxError: redeclaration of let NativelyInfo
+JavaScript error: https://soft.reelly.io/sign-in, line 87: TypeError: document.getElementById(...) is null
+1698798969044	Marionette	INFO	Stopped listening on port 62588
+JavaScript warning: https://assets-global.website-files.com/63c5585ff31e74bfcf46a136/js/webflow.3d59c7cce.js, line 22: Script terminated by timeout at:
+r@https://assets-global.website-files.com/63c5585ff31e74bfcf46a136/js/webflow.3d59c7cce.js:22:126317
+
+1698798984354	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1698799044919	geckodriver	INFO	Listening on 127.0.0.1:63048
+1698799045399	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/nw/kjdsz94j241dgkvncgc82_xw0000gn/T/rust_mozprofile0kdWKH"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698799045949	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1698799046465	Marionette	INFO	Listening on port 63064
+Read port: 63064
+WebDriver BiDi listening on ws://127.0.0.1:63049
+1698799047139	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:63049/devtools/browser/9617d2bd-47dd-46f6-ac39-b028e98422b5
+1698799052405	geckodriver	INFO	Listening on 127.0.0.1:63120
+1698799052914	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/nw/kjdsz94j241dgkvncgc82_xw0000gn/T/rust_mozprofileQMsvkP"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698799053618	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1698799054099	Marionette	INFO	Listening on port 63132
+Read port: 63132
+WebDriver BiDi listening on ws://127.0.0.1:63121
+1698799054693	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:63121/devtools/browser/52308a44-09e9-4688-bcec-fdf8cd3c7241
+JavaScript error: https://soft.reelly.io/sign-in, line 87: TypeError: document.getElementById(...) is null
+JavaScript error: https://cdn.jsdelivr.net/npm/natively@2.11.0/natively-frontend.min.js, line 1: SyntaxError: redeclaration of let NativelyInfo
+JavaScript error: https://soft.reelly.io/sign-in, line 87: TypeError: document.getElementById(...) is null
+1698799065292	Marionette	INFO	Stopped listening on port 63132
+JavaScript warning: https://assets-global.website-files.com/63c5585ff31e74bfcf46a136/js/webflow.3d59c7cce.js, line 22: Script terminated by timeout at:
+r@https://assets-global.website-files.com/63c5585ff31e74bfcf46a136/js/webflow.3d59c7cce.js:22:126317
+
+!!! error running onStopped callback: TypeError: callback is not a function
+1698799078210	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1698799119236	geckodriver	INFO	Listening on 127.0.0.1:63473
+1698799119757	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/nw/kjdsz94j241dgkvncgc82_xw0000gn/T/rust_mozprofileMRElH1"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698799120367	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1698799120870	Marionette	INFO	Listening on port 63489
+Read port: 63489
+WebDriver BiDi listening on ws://127.0.0.1:63474
+1698799121325	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:63474/devtools/browser/71c532b0-9042-44ff-9f56-7e6d6f101b08
+1698799122925	geckodriver	INFO	Listening on 127.0.0.1:63508
+1698799123436	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/nw/kjdsz94j241dgkvncgc82_xw0000gn/T/rust_mozprofileFvSa5c"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698799124076	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1698799124561	Marionette	INFO	Listening on port 63532
+Read port: 63532
+WebDriver BiDi listening on ws://127.0.0.1:63509
+1698799125060	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:63509/devtools/browser/8f618cc5-df7a-4639-944b-503e339070ee
+JavaScript error: https://soft.reelly.io/sign-in, line 87: TypeError: document.getElementById(...) is null
+JavaScript error: https://cdn.jsdelivr.net/npm/natively@2.11.0/natively-frontend.min.js, line 1: SyntaxError: redeclaration of let NativelyInfo
+JavaScript error: https://soft.reelly.io/sign-in, line 87: TypeError: document.getElementById(...) is null
+1698799133066	Marionette	INFO	Stopped listening on port 63532
+JavaScript warning: https://assets-global.website-files.com/63c5585ff31e74bfcf46a136/js/webflow.3d59c7cce.js, line 22: Script terminated by timeout at:
+r@https://assets-global.website-files.com/63c5585ff31e74bfcf46a136/js/webflow.3d59c7cce.js:22:126317
+
+1698799142460	geckodriver	INFO	Listening on 127.0.0.1:63662
+1698799142983	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/nw/kjdsz94j241dgkvncgc82_xw0000gn/T/rust_mozprofilett8nHc"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698799143635	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1698799144175	Marionette	INFO	Listening on port 63678
+Read port: 63678
+WebDriver BiDi listening on ws://127.0.0.1:63663
+1698799144678	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:63663/devtools/browser/0dd53d81-c92d-445b-9535-8fef2a7ace1c
+1698799146621	geckodriver	INFO	Listening on 127.0.0.1:63701
+1698799147127	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/nw/kjdsz94j241dgkvncgc82_xw0000gn/T/rust_mozprofileqbnMFB"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698799147974	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1698799148603	Marionette	INFO	Listening on port 63724
+Read port: 63724
+WebDriver BiDi listening on ws://127.0.0.1:63702
+1698799149252	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:63702/devtools/browser/f53326a6-687d-46d8-be3b-2de263097396
+1698799152065	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+JavaScript error: https://soft.reelly.io/sign-in, line 87: TypeError: document.getElementById(...) is null
+JavaScript error: https://cdn.jsdelivr.net/npm/natively@2.11.0/natively-frontend.min.js, line 1: SyntaxError: redeclaration of let NativelyInfo
+JavaScript error: https://soft.reelly.io/sign-in, line 87: TypeError: document.getElementById(...) is null
+1698799159446	Marionette	INFO	Stopped listening on port 63724
+JavaScript warning: https://assets-global.website-files.com/63c5585ff31e74bfcf46a136/js/webflow.3d59c7cce.js, line 22: Script terminated by timeout at:
+r@https://assets-global.website-files.com/63c5585ff31e74bfcf46a136/js/webflow.3d59c7cce.js:22:126317
+
+1698799175304	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1698799245790	geckodriver	INFO	Listening on 127.0.0.1:64233
+1698799246301	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/nw/kjdsz94j241dgkvncgc82_xw0000gn/T/rust_mozprofile9pHG67"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698799246850	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1698799247259	Marionette	INFO	Listening on port 64249
+Read port: 64249
+WebDriver BiDi listening on ws://127.0.0.1:64234
+1698799247708	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:64234/devtools/browser/cd5b55e3-b98f-4781-98ff-3f159f7d051f
+1698799249378	geckodriver	INFO	Listening on 127.0.0.1:64265
+1698799249885	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/nw/kjdsz94j241dgkvncgc82_xw0000gn/T/rust_mozprofileFRv3Dm"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698799250528	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1698799251051	Marionette	INFO	Listening on port 64292
+Read port: 64292
+WebDriver BiDi listening on ws://127.0.0.1:64266
+1698799251530	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:64266/devtools/browser/87839816-3f05-475b-8c79-43a9af253c8b
+JavaScript error: https://soft.reelly.io/sign-in, line 87: TypeError: document.getElementById(...) is null
+JavaScript error: https://cdn.jsdelivr.net/npm/natively@2.11.0/natively-frontend.min.js, line 1: SyntaxError: redeclaration of let NativelyInfo
+JavaScript error: https://soft.reelly.io/sign-in, line 87: TypeError: document.getElementById(...) is null
+1698799260408	Marionette	INFO	Stopped listening on port 64292
+JavaScript warning: https://assets-global.website-files.com/63c5585ff31e74bfcf46a136/js/webflow.3d59c7cce.js, line 22: Script terminated by timeout at:
+r@https://assets-global.website-files.com/63c5585ff31e74bfcf46a136/js/webflow.3d59c7cce.js:22:126317
+
+1698799278478	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
+1698799293837	geckodriver	INFO	Listening on 127.0.0.1:64527
+1698799294356	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/nw/kjdsz94j241dgkvncgc82_xw0000gn/T/rust_mozprofileJceTBY"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698799294980	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1698799295980	Marionette	INFO	Listening on port 64543
+WebDriver BiDi listening on ws://127.0.0.1:64528
+Read port: 64543
+1698799296256	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:64528/devtools/browser/763499fd-f423-4de2-8e37-9f54861a824d
+1698799297913	geckodriver	INFO	Listening on 127.0.0.1:64559
+1698799298410	mozrunner::runner	INFO	Running command: MOZ_CRASHREPORTER="1" MOZ_CRASHREPORTER_NO_REPORT="1" MOZ_CRASHREPORTER_SHUTDOWN="1" MOZ_NO_REMOTE="1" "/App ... s" "localhost" "-foreground" "-no-remote" "-profile" "/var/folders/nw/kjdsz94j241dgkvncgc82_xw0000gn/T/rust_mozprofile8p9Vjb"
+*** You are running in headless mode.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1698799299175	Marionette	INFO	Marionette enabled
+console.error: "Warning: unrecognized command line flag" "-remote-allow-hosts"
+1698799299750	Marionette	INFO	Listening on port 64582
+Read port: 64582
+WebDriver BiDi listening on ws://127.0.0.1:64560
+1698799300584	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+[GFX1-]: RenderCompositorSWGL failed mapping default framebuffer, no dt
+DevTools listening on ws://127.0.0.1:64560/devtools/browser/e723aee0-be9e-41dc-85d7-61d70d927169
+JavaScript error: https://soft.reelly.io/sign-in, line 87: TypeError: document.getElementById(...) is null
+JavaScript error: https://cdn.jsdelivr.net/npm/natively@2.11.0/natively-frontend.min.js, line 1: SyntaxError: redeclaration of let NativelyInfo
+JavaScript error: https://soft.reelly.io/sign-in, line 87: TypeError: document.getElementById(...) is null
+1698799305642	Marionette	INFO	Stopped listening on port 64582
+JavaScript warning: https://assets-global.website-files.com/63c5585ff31e74bfcf46a136/js/webflow.3d59c7cce.js, line 22: Script terminated by timeout at:
+r@https://assets-global.website-files.com/63c5585ff31e74bfcf46a136/js/webflow.3d59c7cce.js:22:126317
+
+1698799326455	addons.xpi	ERROR	System addon update list error SyntaxError: XMLHttpRequest.open: 'http://%(server)s/dummy-system-addons.xml' is not a valid URL.
